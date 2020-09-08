@@ -1,0 +1,16 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+.form-control{
+	background-color: #F3F6F9;
+    border-color: #F3F6F9;
+    color: #3F4254;
+}
+.forgot{
+	float: right;
+}
